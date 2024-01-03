@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="19095048-c4c3-481b-bd44-67225c860d18" name="Changes" comment="changed git ignore file">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberone/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numbertwo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +25,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="KubernetesApiProvider">{
@@ -134,6 +143,8 @@
       <workItem from="1704293852033" duration="2226000" />
       <workItem from="1704296087210" duration="245000" />
       <workItem from="1704296337589" duration="277000" />
+      <workItem from="1704296618905" duration="183000" />
+      <workItem from="1704296806515" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />

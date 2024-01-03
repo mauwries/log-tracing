@@ -1,1 +1,11 @@
+/client/target/
+/numberone/target/
+/numbertwo/target/
+
+/client/.idea/
 /numberone/.idea/
+/numbertwo/.idea/
+
+/client/.mvn/
+/numberone/.mvn/
+/numbertwo/.mvn/
