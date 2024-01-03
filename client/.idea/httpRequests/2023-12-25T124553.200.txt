@@ -1,3 +1,0 @@
-Answer from client 
-Answer from server 1 
-Answer from server 2
